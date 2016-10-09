@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "927233434294",
+    "firebase_url": "https://motomoteros-c409c.firebaseio.com",
+    "project_id": "motomoteros-c409c",
+    "storage_bucket": "motomoteros-c409c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927233434294:android:c62d988801fa7738",
+        "android_client_info": {
+          "package_name": "com.crew.riders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927233434294-0u450a6flhl0kao15ema8e61t8jo47k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crew.riders",
+            "certificate_hash": "3A5E818925DBF44CEF587E1D8E4D2029942878EC"
+          }
+        },
+        {
+          "client_id": "927233434294-ut6dqkofj2rd579jlj95r7ibslp4kva5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByJgULoaGb_JrROUxqeHHbp93DDrqEuVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927233434294-ut6dqkofj2rd579jlj95r7ibslp4kva5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
